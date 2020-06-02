@@ -1,8 +1,8 @@
-Origin: Reposi3
-Label: Reposi3
+Origin: Braydn's Repo
+Label: Braydn's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Reposi3 - a cydia repo template
+Description: I would not recommend installing anything from here unless Braydn says so. It will most likely break your phone
